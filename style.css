@@ -4,4 +4,38 @@ body{
   width:100%;
 }
 .principal{
-  baackground
+  baackground:#cccccc;
+  padding:30px;
+}
+.titulo-principal{
+  padding-left:20px;
+}
+titulo-centralizado{
+  text-aling:center;
+}
+p{
+  text-aling:center;
+}
+#missao{
+  font-size:200px;
+}
+em strong{
+  color:FF0000
+}
+.itens{
+  font-style:italk;
+}
+.beneficios{
+  backgroun#FFFFFF;
+  padding:20px
+}
+.ul{
+display:ilign:top;
+vertical-align:top;
+  width:20%
+  margin-right:15%
+  }
+  .imagembeneficio{
+    width:50%
+  }
+  
