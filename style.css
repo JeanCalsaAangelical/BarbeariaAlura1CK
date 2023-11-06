@@ -1,41 +1,52 @@
-body{
+body {
+	
 }
-#banner{
-  width:100%;
+
+#banner {
+	width:100%;
 }
+
 .principal{
-  baackground:#cccccc;
-  padding:30px;
+	background: #CCCCCC;
+	padding: 30px;
 }
-.titulo-principal{
-  padding-left:20px;
+
+.titulo-principal {
+	padding-left: 20px;
 }
-titulo-centralizado{
-  text-aling:center;
+
+.titulo-centralizado {
+	text-align: center
 }
-p{
-  text-aling:center;
+
+p {
+	text-align: center;
 }
-#missao{
-  font-size:200px;
+
+#missao {
+	font-size: 20px
 }
-em strong{
-  color:FF0000
+
+em strong {
+	color: #FF0000;
 }
-.itens{
-  font-style:italk;
+
+.itens {
+	font-style: italic
 }
-.beneficios{
-  backgroun#FFFFFF;
-  padding:20px
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
 }
-.ul{
-display:ilign:top;
-vertical-align:top;
-  width:20%
-  margin-right:15%
-  }
-  .imagembeneficio{
-    width:50%
-  }
-  
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
